@@ -12,7 +12,7 @@ import (
 
 var Reader io.Reader
 
-var charset = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM!@#$%&^*><?/1234567890"
+var charset = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM!@#$%&^*><?/1234567890_-+="
 
 func generate(length int) (string, error) {
 	var passwd = make([]byte, length)

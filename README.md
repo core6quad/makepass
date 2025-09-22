@@ -1,5 +1,6 @@
 # makepass
-A simple password generator written in Go
+Yet another password generator written in Go.
+Uses high-entropy system calls and is pretty configurable.
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/core6quad/makepass)
 
