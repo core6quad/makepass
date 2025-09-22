@@ -4,6 +4,10 @@ Uses high-entropy system calls and is pretty configurable.
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/core6quad/makepass)
 
+![AUR Version](https://img.shields.io/aur/version/makepass)
+![AUR Votes](https://img.shields.io/aur/votes/makepass)
+
+[AUR page](https://aur.archlinux.org/packages/makepass)
 
 ## usage
 this program has some launch parameters avaliable 
