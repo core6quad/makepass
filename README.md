@@ -1,4 +1,12 @@
+# This project is Archived
+because seriously, who needs this? there are a billion of them already. 
+i just wanted to make a program and to publish it onto AUR.
+
+
 # makepass
+
+
+
 Yet another password generator written in Go.
 Uses high-entropy system calls and is pretty configurable.
 
